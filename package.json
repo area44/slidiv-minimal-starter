@@ -12,10 +12,10 @@
   "dependencies": {
     "@slidev/cli": "^52.14.1",
     "@slidev/theme-seriph": "^0.25.0",
-    "vue": "^3.5.30"
+    "vue": "^3.5.31"
   },
   "devDependencies": {
     "@area44/biome-config": "^2.3.3",
-    "@biomejs/biome": "^2.4.8"
+    "@biomejs/biome": "^2.4.9"
   }
 }
