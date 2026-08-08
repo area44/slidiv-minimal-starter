@@ -10,12 +10,12 @@
     "check": "biome check --write"
   },
   "dependencies": {
-    "@slidev/cli": "^52.18.1",
+    "@slidev/cli": "^52.19.0",
     "@slidev/theme-seriph": "^0.25.0",
-    "vue": "^3.5.40"
+    "vue": "^3.5.41"
   },
   "devDependencies": {
     "@area44/biome-config": "^2.3.4",
-    "@biomejs/biome": "^2.5.6"
+    "@biomejs/biome": "^2.5.7"
   }
 }
