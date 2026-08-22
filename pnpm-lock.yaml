@@ -22,7 +22,7 @@ importers:
         specifier: ^2.3.4
         version: 2.3.4
       '@biomejs/biome':
-        specifier: ^2.5.9
+        specifier: ^2.5.10
         version: 2.5.10
 
 packages:
