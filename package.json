@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "@area44/biome-config": "^2.3.4",
-    "@biomejs/biome": "^2.6.3",
+    "@biomejs/biome": "^2.6.4",
     "vite": "^8.3.5"
   },
-  "packageManager": "pnpm@12.15.0"
+  "packageManager": "pnpm@12.16.1"
 }
